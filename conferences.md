@@ -18,6 +18,7 @@
 | --- | --- | --- | --- | --- | --- | 
 | Cloud Native Virtual Summit | https://info.d2iq.com/20-04-01-d2iq-virtual-summit-registration.html | 1.04 | Kubernetes, Cloud | English | Paid |
 | Atlassian Remote Summit | https://atlassian.swoogo.com/summit20_live_stream | 1-2.04 | Atlassian products (i.e. Jira, Confluence, etc) | English | Free |
+| ng-conf | https://ti.to/ng-conf/2020/discount/Hardwired | 1-3.04 | Angular, Frontend, Web | English | Paid |
 | Oktane | https://www.oktane20.com/ | 1-2.04 |	Identity management, Okta products | English | Free |
 | Collision Conf | https://collisionconf.com/ | 6-8.04 | | English | Free |
 | Lead Developer NYC | https://newyork2020.theleaddeveloper.com/ | 7-8.04 | Leadership, Management | English | |
