@@ -36,8 +36,15 @@
 | Byteconf React 2020	| https://www.bytesized.xyz/react-2020 | 1-2.05	 | React | English ||		
 | MongoDB World 2020 | https://www.mongodb.com/world | 4-5.05 | MongoDB | English ||
 | IBM Think Digital 2020 | https://www.ibm.com/events/think/ | 5-7.05 | Cloud, Data, AI, IBM Products | English | |
+| JS VidCon | jsvidcon.com | 7.05 | Javascript | English | Paid |
 | Tech Inclusion | https://techinclusion.co/summit/	| 12.05 | Leadership & Professional Growth, Allyship & Culture, Emerging Industry Trends, The Future of Work | English | Free |
 | Redis Conf | https://events.redislabs.com/redisconf20/ | 12.05 | Redis, best practices | English | Free |
 | Adobe Summit | https://www.adobe.com/summit.html | 13-14.05 | Adobe products | English ||
 | DrupalCon	| https://events.drupal.org/minneapolis2020	| 18-22.05 | Drupal	| English ||
 | Microsoft Build |	https://www.microsoft.com/en-us/build | 19-12.05 | Microsoft products | English ||		
+
+
+## June
+| Name | Link | Date | Topics | Language | Paid/Free
+| --- | --- | --- | --- | --- | --- | 
+| Women Tech Global Conference 2020 | https://www.womentech.net/women-tech-conference | 10.06 | Tech | English | Free |
