@@ -9,6 +9,7 @@
 | Spring Live | [Link](https://connect.tanzu.vmware.com/Spring_Live_Q221.html) | 19.03 | Architecture | English | Free | 
 | Midwest Drupal Camp | [Link](https://www.midcamp.org/) | 19-21.03 | Drupal | English | Free |
 | Change @ Work | [Link](https://changeatwork.nobl.io/) | 20.03 | Change management, Leadership | English | Free |
+| Volves Summit | [Link](https://poland.wolvessummit.com/pl/) | 24-25.03 | Networking, Startps, New Technologies | Polish | Paid |
 | Process Mining Live | [Link](https://www.processexcellencenetwork.com/online-events/process-mining-live) | 24-26.03 | | English |  |
 | #PerfMatters Conference |	[Link](https://perfmattersconf.com/) | 30.03-1.04 | Frontend Web Performance |  English | Paid |
 
@@ -37,6 +38,7 @@
 | MongoDB World 2020 | [Link](https://www.mongodb.com/world) | 4-5.05 | MongoDB | English ||
 | IBM Think Digital 2020 | [Link](https://www.ibm.com/events/think/) | 5-7.05 | Cloud, Data, AI, IBM Products | English | |
 | JS VidCon | [Link](jsvidcon.com) | 7.05 | Javascript | English | Paid |
+| PickJS | [Link](https://pickjs.com/) | 8.05 | Javascript | English | Paid | 
 | Tech Inclusion | [Link](https://techinclusion.co/summit/)	| 12.05 | Leadership & Professional Growth, Allyship & Culture, Emerging Industry Trends, The Future of Work | English | Free |
 | Redis Conf | [Link](https://events.redislabs.com/redisconf20/) | 12.05 | Redis, best practices | English | Free |
 | Adobe Summit | [Link](https://www.adobe.com/summit.html) | 13-14.05 | Adobe products | English ||

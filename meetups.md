@@ -15,6 +15,8 @@
 | Algorithms and Interview Prep |  [Link](https://www.meetup.com/Women-Who-Code-SF/events/268171783/) | 20.03 01:30 (UTC) | Algorithms, Interview | English | Free | 
 | Study Group Clean Code  |  [Link](https://www.meetup.com/Women-Who-Code-Taipei/events/jlmfprybcfbzb/) | 20.03 11:00 (UTC) | Clean Code, Best practices | Mandarin | Free |
 | Front End Friday Slack Study Group 🙋‍♀️💻 |  [Link](https://app.slack.com/client/THX1U2533/DJ3GRLMLG) | 20.03 18:00 (UTC) | Frontend, Web Development | English | Free | 
+| Flutter for Web | [Link](https://t.co/Ip9G9pxxRH?amp=1) | 27.03 19:00 (PHT) | Flutter, Web | English | Free | 
+| Eva and Jessica talk how to get from self-taught -> junior developer | [Link](https://www.eventbrite.com/e/eva-and-jessica-talk-how-to-get-from-self-taught-junior-developer-tickets-100414745206) | 23.03 18:00 (CET) | First Job, Juniors | English | Free | 
 | [KRK]Microsoft Azure User Group Poland - Przetwarzanie danych w MS Azure |  [Link](https://www.meetup.com/pl-PL/Microsoft-Azure-Users-Group-Poland/events/269346936/)| 24.03 18:00 - 20:00 | Azure, Data Analysis, IoT | Polish | Free |
 | Talks.dev Montreal |  [Link](https://www.eventbrite.com/e/virtual-event-talksdev-back-end-montreal-tickets-89527791033?aff=ebdssbonlinesearch) | 24.03 18:30-21:30 (EDT) | BackEnd | English | Paid |
 |  Mastering the Interview: Python Style |  [Link](https://zoom.us/webinar/register/WN_5eYuURYjSqyOySAKx3bbvQ) | 25.03 16:00 (UTC) | Python, Interview Preparation | English | Free | 
