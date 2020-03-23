@@ -44,9 +44,11 @@
 | Adobe Summit | [Link](https://www.adobe.com/summit.html) | 13-14.05 | Adobe products | English ||
 | DrupalCon	| [Link](https://events.drupal.org/minneapolis2020)	| 18-22.05 | Drupal	| English ||
 | Microsoft Build |	[Link](https://www.microsoft.com/en-us/build) | 19-12.05 | Microsoft products | English ||		
+| Cloud Developerdays	| [Link](https://cloud.deveoperdays.pl/)	| 26-27.05 | Cloud	| Polish ||
 
 
 ## June
+
 | Name | Link | Date | Topics | Language | Paid/Free
 | --- | --- | --- | --- | --- | --- | 
 | Women Tech Global Conference 2020 | [Link](https://www.womentech.net/women-tech-conference) | 10.06 | Tech | English | Free |
