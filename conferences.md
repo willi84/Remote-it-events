@@ -25,6 +25,7 @@
 | Collision Conf | [Link](https://collisionconf.com/) | 6-8.04 | | English | Free |
 | Lead Developer NYC | [Link](https://newyork2020.theleaddeveloper.com/) | 7-8.04 | Leadership, Management | English | |
 | Emerging Technologies for the Enterprise | [Link](https://2020.phillyemergingtech.com/) | 14-15.04 || English | Paid |
+| MagnoliaJSConf | [Link](magnoliajs.com) | 16-17.04 | Javascript, Web Technologies | English | Free | 
 | FailoverConf | [Link](https://failover-conf.heysummit.com/) | 21.04 | resiliency  | English | |
 | Global Azure Virtual 2020 | [Link](https://globalazure2020.azureguru.pl/) | 23-25.04 | Azure | English | |
 | Red Hat Summit | [Link](https://www.redhat.com/en/blog/moving-red-hat-summit-2020-virtual-experience?sc_cid=7013a000002CrnhAAC) | 28-29.04 |	Open source & enterprise technology	| English ||
