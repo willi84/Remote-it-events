@@ -11,6 +11,7 @@
 | Change @ Work | [Link](https://changeatwork.nobl.io/) | 20.03 | Change management, Leadership | English | Free |
 | Volves Summit | [Link](https://poland.wolvessummit.com/pl/) | 24-25.03 | Networking, Startps, New Technologies | Polish | Paid |
 | Process Mining Live | [Link](https://www.processexcellencenetwork.com/online-events/process-mining-live) | 24-26.03 | | English |  |
+| DivOps | [Link](https://divops.org) | 27.03 | DevOps, Azure, CI/CD | English | Paid |  
 | #PerfMatters Conference |	[Link](https://perfmattersconf.com/) | 30.03-1.04 | Frontend Web Performance |  English | Paid |
 
 ## April
