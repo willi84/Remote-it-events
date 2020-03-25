@@ -21,6 +21,7 @@
 | Talks.dev Montreal |  [Link](https://www.eventbrite.com/e/virtual-event-talksdev-back-end-montreal-tickets-89527791033?aff=ebdssbonlinesearch) | 24.03 18:30-21:30 (EDT) | BackEnd | English | Paid |
 |  Mastering the Interview: Python Style |  [Link](https://zoom.us/webinar/register/WN_5eYuURYjSqyOySAKx3bbvQ) | 25.03 16:00 (UTC) | Python, Interview Preparation | English | Free | 
 | Building Microservices with Kotlin and gRPC |  [Link](https://www.youtube.com/watch?v=RcVON9pNFTY) | 26.03 18:00 | Kotlin, Microservices gRPC | English | Free | 
+| Agent-Based Models & Applications by Erika Legara | [Link](https://www.meetup.com/pl-PL/Poznan-Women-in-Machine-Learning-Data-Science/events/269631420) | 26.03 17:00-18:00 | Machine Learning | English | Free |  
 |2020 Charlottesville Women In Data Science Conference | [Link](https://www.eventbrite.com/e/2020-charlottesville-women-in-data-science-conference-tickets-96104494129?aff=ebdssbonlinesearch) | 27.03 9:00-17:00 (EDT) | Data Science, AI | English | Free | 
 | Front End Friday Slack Study Group 🙋‍♀️💻 |  [Link](https://app.slack.com/client/THX1U2533/DJ3GRLMLG) | 27.03 18:00 (UTC) | Frontend, Web Development | English | Free | 
 | Learn the Basics of Open Source Contribution! |  [Link](https://zoom.us/webinar/register/WN__XGuxVRlQ3uxvD3X9-t1AA) | 28.03 16:00 (UTC) | Open Source, Git | English | Free | 
