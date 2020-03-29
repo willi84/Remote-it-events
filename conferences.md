@@ -13,6 +13,7 @@
 | Process Mining Live | [Link](https://www.processexcellencenetwork.com/online-events/process-mining-live) | 24-26.03 | | English |  |
 | DivOps | [Link](https://divops.org) | 27.03 | DevOps, Azure, CI/CD | English | Paid |  
 | #PerfMatters Conference |	[Link](https://perfmattersconf.com/) | 30.03-1.04 | Frontend Web Performance |  English | Paid |
+| Virtual Azure Community Day |	[Link](https://azureday.community/) | 31.03 | Cloud |  English | Free |
 
 ## April
 
