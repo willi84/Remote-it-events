@@ -25,6 +25,7 @@
 | Oktane | [Link](https://www.oktane20.com/) | 1-2.04 |	Identity management, Okta products | English | Free |
 | Collision Conf | [Link](https://collisionconf.com/) | 6-8.04 | | English | Free |
 | Lead Developer NYC | [Link](https://newyork2020.theleaddeveloper.com/) | 7-8.04 | Leadership, Management | English | |
+| BCSWomen Lovelace Colloquium 2020 | [Link](https://t.co/doN0jDXm95?amp=1) | 8.04 | Research, Computer Science | English | Free | 
 | Emerging Technologies for the Enterprise | [Link](https://2020.phillyemergingtech.com/) | 14-15.04 || English | Paid |
 | MagnoliaJSConf | [Link](magnoliajs.com) | 16-17.04 | Javascript, Web Technologies | English | Free | 
 | FailoverConf | [Link](https://failover-conf.heysummit.com/) | 21.04 | resiliency  | English | |
