@@ -28,8 +28,10 @@
 | BCSWomen Lovelace Colloquium 2020 | [Link](https://t.co/doN0jDXm95?amp=1) | 8.04 | Research, Computer Science | English | Free | 
 | Emerging Technologies for the Enterprise | [Link](https://2020.phillyemergingtech.com/) | 14-15.04 || English | Paid |
 | MagnoliaJSConf | [Link](magnoliajs.com) | 16-17.04 | Javascript, Web Technologies | English | Free | 
+| React Summit | [Link](https://remote.reactsummit.com/) | 17.04 | React, Frontend | English | Paid |  
 | FailoverConf | [Link](https://failover-conf.heysummit.com/) | 21.04 | resiliency  | English | |
 | Global Azure Virtual 2020 | [Link](https://globalazure2020.azureguru.pl/) | 23-25.04 | Azure | English | |
+| Women of React | [Link](https://womenofreact.com/) | 25.04 | React, Frontend | English | Free|
 | Red Hat Summit | [Link](https://www.redhat.com/en/blog/moving-red-hat-summit-2020-virtual-experience?sc_cid=7013a000002CrnhAAC) | 28-29.04 |	Open source & enterprise technology	| English ||
 
 

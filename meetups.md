@@ -32,12 +32,17 @@
 | --- | --- | --- | --- | --- | --- | 
 | Webinar z modelowaniem - co to takiego? | [Link](https://youtu.be/i8_1-7HZDTM) | 1.04 20:00 | Event Stormin, Event Modeling | Polish | Free | 
 | Angular Rome Webinar | [Link](https://community.codemotion.com/angular-roma/meetups/meetup-aperitech-online-edition-di-angular-roma) | 2.04 18:30-20:00 | Angular | English | Free | 
+| AngularToronto Meetup | [Link](https://www.meetup.com/pl-PL/AngularToronto/events/268982867) | 7.04 17:30-21:00 | Angular | English | Free | 
 | NLP Contextual Word Embeddings - What's New and How to Use Them |  [Link](https://zoom.us/webinar/register/WN_NFYW5bYMTziuvHtb8oF09A) | 8.04 23:00 (UTC) | NLP, Machine Learning | English | Free | 
 | Virtual: What's new in Visual Studio for Mac for .NET Developers | [Link](https://www.meetup.com/pl-PL/SeattleMobileDevelopers/events/269755021) | 8.04 17:00-18:30 | .NET, Visual Studio | English | Free | 
 | Angular meets Dubai | [Link](https://t.co/HpShaCY6Ap?amp=1) | 8.04 20:00 - 21.30 | Angular | English | Free | 
+| WarsawJS | [Link](https://www.meetup.com/pl-PL/Angular-Warsaw/events/269833985/) | 8.04 18:30 - 20:30 | Angular | English | Free | 
 | Women in Data Science - Oslo |  [Link](https://www.eventbrite.co.uk/e/women-in-data-science-oslo-remote-conference-tickets-96044512723?aff=ebdssbonlinesearch)| 16.04 12:00-17:00 (CEST) | Data Science, AI | English | Free |
 | 3 Part Mini Data Science Bootcamp (Learn the data science stack / tools and how to approach DS projects |  [Link](https://join.slack.com/t/wwcodedatascience/shared_invite/enQtNjUwNDc4NDc3NzM1LTAwYTRhNGJiZTYzMjcyM2FiNjQ2OGE4NTQzZTE1ODA0NGIwZmFjYWNjMmIzYzI1MzMyMzhjY2RiMGRmZmQ5NjY) | 23.04 00:00 (UTC) | Data Science | English | Free |
 |  Fuzzy Search Algorithms: When and How to Use Them |  [Link](https://zoom.us/webinar/register/WN_IzgcLB8CTUqdW-_L7x5dQg) | 23.04 00:00 (UTC) | Algorithms, Python | English | Free |
 | Traefik Migration 1.7 to 2.x | [Link](bit.ly/2xIO2VV) | 23.04 7:00 PT | goLang | English | Free|
 | Data Mesh Infrastructure by Example with WWCode Cloud | [Link](https://zoom.us/webinar/register/WN_2uctiO8YT02np21CL9prMQ) | Cloud, Infrastructure | English | Free |
 | 4 Part Classical ML bootcamp (Learn to build projects with the 4 most commonly used / deployed ML models) | [Link](https://join.slack.com/t/wwcodedatascience/shared_invite/enQtNjUwNDc4NDc3NzM1LTAwYTRhNGJiZTYzMjcyM2FiNjQ2OGE4NTQzZTE1ODA0NGIwZmFjYWNjMmIzYzI1MzMyMzhjY2RiMGRmZmQ5NjY) | Machine Learning, Data Science | English | Free | 
+
+## May
+| Virtual Open North America | [Link](https://www.eventbrite.com/e/virtual-open-north-america-tickets-101659959676) | 3.05 12:00 - 18:00 EDT | Agile, Lean | English | Paid | 
