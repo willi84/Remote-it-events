@@ -27,12 +27,20 @@
 | Lead Developer NYC | [Link](https://newyork2020.theleaddeveloper.com/) | 7-8.04 | Leadership, Management | English | |
 | BCSWomen Lovelace Colloquium 2020 | [Link](https://t.co/doN0jDXm95?amp=1) | 8.04 | Research, Computer Science | English | Free | 
 | Emerging Technologies for the Enterprise | [Link](https://2020.phillyemergingtech.com/) | 14-15.04 || English | Paid |
-| MagnoliaJSConf | [Link](magnoliajs.com) | 16-17.04 | Javascript, Web Technologies | English | Free | 
+| AllTheTalks | [Link](https://www.allthetalks.org/) | 15.04 | DevOps, Security, Development | English | Free | 
+| MagnoliaJSConf | [Link](magnoliajs.com) | 15-17.04 | Javascript, Web Technologies | English | Free | 
 | React Summit | [Link](https://remote.reactsummit.com/) | 17.04 | React, Frontend | English | Paid |  
+| All Day DevOps Spring Break Edition | [Link](https://www.alldaydevops.com/spring-break) | 17.04 | DevOps, SRE, DevSecOps, CI/CD, cloud | English | Free | 
+| Scala Love | [Link](https://scala.love/conf/) | 18.04 | Scala, development | English | Free | 
+| DevOps Online Summit | [Link](https://www.devopsonlinesummit.com/2020) | 20.04 | DevOps | English | Paid | 
+| Remote AID 2020 | [Link](https://runningremote.com/) | 20.04 | Management, Soft Skills, Remote | English | Free | 
 | FailoverConf | [Link](https://failover-conf.heysummit.com/) | 21.04 | resiliency  | English | |
 | Global Azure Virtual 2020 | [Link](https://globalazure2020.azureguru.pl/) | 23-25.04 | Azure | English | |
-| Women of React | [Link](https://womenofreact.com/) | 25.04 | React, Frontend | English | Free|
+| Women of React | [Link](https://womenofreact.com/) | 25.04 | React, Frontend | English | Free |
+| Remote Python Pizza | [Link](https://remote.python.pizza/) | 25.04 | Python, development | English | Paid (for charity) | 
+| Infrastructure WebConf | [Link](https://www.thoughtworks.com/de/infrastructure-webconf) | 27.04 | DevOps, SRE, infrastructure, CI/CD, cloud | English | Free | 
 | Red Hat Summit | [Link](https://www.redhat.com/en/blog/moving-red-hat-summit-2020-virtual-experience?sc_cid=7013a000002CrnhAAC) | 28-29.04 |	Open source & enterprise technology	| English ||
+| TestBash Home 2020 | [Link](https://www.ministryoftesting.com/events/testbash-home-2020) | 30.04-1.05 | Testing | English | Paid | 
 
 
 ## May
