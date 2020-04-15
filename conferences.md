@@ -34,11 +34,13 @@
 | Scala Love | [Link](https://scala.love/conf/) | 18.04 | Scala, development | English | Free | 
 | DevOps Online Summit | [Link](https://www.devopsonlinesummit.com/2020) | 20.04 | DevOps | English | Paid | 
 | Remote AID 2020 | [Link](https://runningremote.com/) | 20.04 | Management, Soft Skills, Remote | English | Free | 
+| International JavaScript Conference ONLINE EDITION | [Link](https://javascript-conference.com/london/ijs-online-edition/) | 20.04 | JavaScript | English | Paid | 
 | FailoverConf | [Link](https://failover-conf.heysummit.com/) | 21.04 | resiliency  | English | |
 | Global Azure Virtual 2020 | [Link](https://globalazure2020.azureguru.pl/) | 23-25.04 | Azure | English | |
 | Women of React | [Link](https://womenofreact.com/) | 25.04 | React, Frontend | English | Free |
 | Remote Python Pizza | [Link](https://remote.python.pizza/) | 25.04 | Python, development | English | Paid (for charity) | 
 | Infrastructure WebConf | [Link](https://www.thoughtworks.com/de/infrastructure-webconf) | 27.04 | DevOps, SRE, infrastructure, CI/CD, cloud | English | Free | 
+| Women In Tech Days AT UNIVERSITIES ONLINE | [Link](https://womenintechday.pl/) | 27-29.04 | Tech, Studies, Experience, Mentoring, Tech Newbies | Polish | Free | 
 | Red Hat Summit | [Link](https://www.redhat.com/en/blog/moving-red-hat-summit-2020-virtual-experience?sc_cid=7013a000002CrnhAAC) | 28-29.04 |	Open source & enterprise technology	| English ||
 | TestBash Home 2020 | [Link](https://www.ministryoftesting.com/events/testbash-home-2020) | 30.04-1.05 | Testing | English | Paid | 
 
@@ -66,3 +68,5 @@
 | Name | Link | Date | Topics | Language | Paid/Free
 | --- | --- | --- | --- | --- | --- | 
 | Women Tech Global Conference 2020 | [Link](https://www.womentech.net/women-tech-conference) | 10.06 | Tech | English | Free |
+
+
