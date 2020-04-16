@@ -40,6 +40,7 @@
 | Women in Data Science - Oslo |  [Link](https://www.eventbrite.co.uk/e/women-in-data-science-oslo-remote-conference-tickets-96044512723?aff=ebdssbonlinesearch)| 16.04 12:00-17:00 (CEST) | Data Science, AI | English | Free |
 | 126. spotkanie Wrocławskiej Grupy .NET  | [Link](https://www.meetup.com/pl-PL/wrocnet/events/268145624/) | 21.04 19:00-21:00 | .NET | Polish | Free | 
 | Building a SaaS, Part 2: Developing Your App, From Front to Back | [Link](https://register.gotowebinar.com/register/6223137262855573003) | 21.04 19:00-20.00 CEST | SaaS | English | Free |
+| Golang Poland #1 | [Link](https://www.meetup.com/Golang-Poland/events/269727378/) | 21.04 18:00 - 21:00 | Go | English | Free |
 | Data Mesh Infrastructure by Example with WWCode Cloud | [Link](https://zoom.us/webinar/register/WN_2uctiO8YT02np21CL9prMQ) | 22.04 12:00 EST |  Cloud, Infrastructure | English | Free | 
 | 3 Part Mini Data Science Bootcamp (Learn the data science stack / tools and how to approach DS projects |  [Link](https://join.slack.com/t/wwcodedatascience/shared_invite/enQtNjUwNDc4NDc3NzM1LTAwYTRhNGJiZTYzMjcyM2FiNjQ2OGE4NTQzZTE1ODA0NGIwZmFjYWNjMmIzYzI1MzMyMzhjY2RiMGRmZmQ5NjY) | 23.04 00:00 (UTC) | Data Science | English | Free |
 |  Fuzzy Search Algorithms: When and How to Use Them |  [Link](https://zoom.us/webinar/register/WN_IzgcLB8CTUqdW-_L7x5dQg) | 23.04 00:00 (UTC) | Algorithms, Python | English | Free |
