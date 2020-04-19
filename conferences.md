@@ -58,8 +58,9 @@
 | Tech Inclusion | [Link](https://techinclusion.co/summit/)	| 12.05 | Leadership & Professional Growth, Allyship & Culture, Emerging Industry Trends, The Future of Work | English | Free |
 | Redis Conf | [Link](https://events.redislabs.com/redisconf20/) | 12.05 | Redis, best practices | English | Free |
 | Adobe Summit | [Link](https://www.adobe.com/summit.html) | 13-14.05 | Adobe products | English ||
+| JetBrains .NET Days Online | [Link](https://pages.jetbrains.com/dotnet-days-2020/) | 13-14.05 | .NET | English |Free|
 | DrupalCon	| [Link](https://events.drupal.org/minneapolis2020)	| 18-22.05 | Drupal	| English ||
-| Microsoft Build |	[Link](https://www.microsoft.com/en-us/build) | 19-12.05 | Microsoft products | English ||		
+| Microsoft Build |	[Link](https://www.microsoft.com/en-us/build) | 19-21.05 | Microsoft products | English ||		
 | Cloud Developerdays	| [Link](https://cloud.developerdays.pl/)	| 26-27.05 | Cloud	| English |Free|
 
 
