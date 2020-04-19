@@ -41,6 +41,7 @@
 | 126. spotkanie Wrocławskiej Grupy .NET  | [Link](https://www.meetup.com/pl-PL/wrocnet/events/268145624/) | 21.04 19:00-21:00 | .NET | Polish | Free | 
 | Building a SaaS, Part 2: Developing Your App, From Front to Back | [Link](https://register.gotowebinar.com/register/6223137262855573003) | 21.04 19:00-20.00 CEST | SaaS | English | Free |
 | Data Mesh Infrastructure by Example with WWCode Cloud | [Link](https://zoom.us/webinar/register/WN_2uctiO8YT02np21CL9prMQ) | 22.04 12:00 EST |  Cloud, Infrastructure | English | Free | 
+| Rozmowy o jakości - webinar | [Link](https://szkolatestow.online/webinar) | 22.04 19:00 | Quality, Tests | Polish | Free | 
 | 3 Part Mini Data Science Bootcamp (Learn the data science stack / tools and how to approach DS projects |  [Link](https://join.slack.com/t/wwcodedatascience/shared_invite/enQtNjUwNDc4NDc3NzM1LTAwYTRhNGJiZTYzMjcyM2FiNjQ2OGE4NTQzZTE1ODA0NGIwZmFjYWNjMmIzYzI1MzMyMzhjY2RiMGRmZmQ5NjY) | 23.04 00:00 (UTC) | Data Science | English | Free |
 |  Fuzzy Search Algorithms: When and How to Use Them |  [Link](https://zoom.us/webinar/register/WN_IzgcLB8CTUqdW-_L7x5dQg) | 23.04 00:00 (UTC) | Algorithms, Python | English | Free |
 | Dev.JS 10 waznych wzorców projektowych na frontendzie | [Link](https://app.evenea.pl/event/devjsonline/) | 23.04 18.30 | Software-Design Patterns, Frontend | Polish | Free | 
