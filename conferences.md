@@ -71,6 +71,7 @@
 
 | Name | Link | Date | Topics | Language | Paid/Free
 | --- | --- | --- | --- | --- | --- | 
+| .Net Core Summer Event 2020 | [Link](https://www.dncse.nl/) | 27.06 | Dotnet | English | Free |
 | Women Tech Global Conference 2020 | [Link](https://www.womentech.net/women-tech-conference) | 10.06 | Tech | English | Free |
 
 
