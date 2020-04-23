@@ -48,12 +48,14 @@
 | Dev.JS 10 waznych wzorców projektowych na frontendzie | [Link](https://app.evenea.pl/event/devjsonline/) | 23.04 18.30 | Software-Design Patterns, Frontend | Polish | Free | 
 | Traefik Migration 1.7 to 2.x | [Link](bit.ly/2xIO2VV) | 23.04 7:00 PT | goLang | English | Free|
 | Comparing Testing Tools: Cypress -vs- Selenium | [Link](https://pages.ng-conf.org/cypress-webinar/) | 28.04 10:00 MDT | Testing, Cypress, Selenium | English | Free | 
+| Telco Camp by Ericsson I Sieci komórkowe w trakcie pandemii | [Link](https://go.mywebinar.com/dlne-nrte-vfzh-cjnw) | 29.04 18:00-19:00 | Telco | Polish | Free | 
 
 
 ## May
 | Name | Link | Date | Topics | Language | Paid/Free
 | --- | --- | --- | --- | --- | --- | 
 | Virtual Open North America | [Link](https://www.eventbrite.com/e/virtual-open-north-america-tickets-101659959676) | 3.05 12:00 - 18:00 EDT | Agile, Lean | English | Paid | 
+| Software Mansion Academy - Styles & Theming in React Native | [Link](https://swmansion.com/academy/) | 6.05 | React Native, Styles & Theming in React Native | English | Free | 
 | 127. spotkanie Wrocławskiej Grupy .NET | [Link](https://www.meetup.com/pl-PL/wrocnet/events/268145665/) | 19.05 18:30-20:30 | .NET | Polish | Free | 
 
 

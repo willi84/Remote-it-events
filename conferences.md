@@ -42,6 +42,7 @@
 | Infrastructure WebConf | [Link](https://www.thoughtworks.com/de/infrastructure-webconf) | 27.04 | DevOps, SRE, infrastructure, CI/CD, cloud | English | Free | 
 | Women In Tech Days AT UNIVERSITIES ONLINE | [Link](https://womenintechday.pl/) | 27-29.04 | Tech, Studies, Experience, Mentoring, Tech Newbies | Polish | Free | 
 | Red Hat Summit | [Link](https://www.redhat.com/en/blog/moving-red-hat-summit-2020-virtual-experience?sc_cid=7013a000002CrnhAAC) | 28-29.04 |	Open source & enterprise technology	| English ||
+| Remote Design Week | [Link](https://remotedesignweek.com/) | 27.04-1.05 | Design | English | Paid | 
 | TestBash Home 2020 | [Link](https://www.ministryoftesting.com/events/testbash-home-2020) | 30.04-1.05 | Testing | English | Paid | 
 
 
@@ -60,8 +61,10 @@
 | Adobe Summit | [Link](https://www.adobe.com/summit.html) | 13-14.05 | Adobe products | English ||
 | JetBrains .NET Days Online | [Link](https://pages.jetbrains.com/dotnet-days-2020/) | 13-14.05 | .NET | English |Free|
 | DrupalCon	| [Link](https://events.drupal.org/minneapolis2020)	| 18-22.05 | Drupal	| English ||
-| Microsoft Build |	[Link](https://www.microsoft.com/en-us/build) | 19-21.05 | Microsoft products | English ||		
-| Cloud Developerdays	| [Link](https://cloud.developerdays.pl/)	| 26-27.05 | Cloud	| English |Free|
+| Microsoft Build |	[Link](https://www.microsoft.com/en-us/build) | 19-21.05 | Microsoft products | English ||	
+| 4Developers Online | [Link](https://4developers.org.pl/online-2020/) | 20.05 | .Net, Architecture | Polish | Paid | 
+| Cloud Developerdays | [Link](https://cloud.developerdays.pl/)	| 26-27.05 | Cloud	| English | Free |
+| JandBeyound - online edition | [Link](https://jandbeyond.org/) | 29-31.05 | Joomla | English | Free | 
 
 
 ## June
