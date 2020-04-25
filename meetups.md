@@ -49,13 +49,15 @@
 | Traefik Migration 1.7 to 2.x | [Link](bit.ly/2xIO2VV) | 23.04 7:00 PT | goLang | English | Free|
 | Comparing Testing Tools: Cypress -vs- Selenium | [Link](https://pages.ng-conf.org/cypress-webinar/) | 28.04 10:00 MDT | Testing, Cypress, Selenium | English | Free | 
 | Telco Camp by Ericsson I Sieci komórkowe w trakcie pandemii | [Link](https://go.mywebinar.com/dlne-nrte-vfzh-cjnw) | 29.04 18:00-19:00 | Telco | Polish | Free | 
-
+| Subjects in #RxJS 101 | [Link](https://buff.ly/2VRIzER) | 29.04 18.30-19.30 EDT | RxJS | English | Free | 
+| Parallel computing in frontend architecture | [Link](https://t.co/6QlGzBYpLy) | 30.04 18.00 EST | Frontend, Architecture | English | Free | 
 
 ## May
 | Name | Link | Date | Topics | Language | Paid/Free
 | --- | --- | --- | --- | --- | --- | 
 | Virtual Open North America | [Link](https://www.eventbrite.com/e/virtual-open-north-america-tickets-101659959676) | 3.05 12:00 - 18:00 EDT | Agile, Lean | English | Paid | 
 | Software Mansion Academy - Styles & Theming in React Native | [Link](https://swmansion.com/academy/) | 6.05 | React Native, Styles & Theming in React Native | English | Free | 
+| junior.js - Online Frontend Meetup #1 | [Link](https://app.evenea.pl/event/juniorjsonline/) | 6.05 18.30 | Frontend, Tech Newbies | Polish | Free | 
 | 127. spotkanie Wrocławskiej Grupy .NET | [Link](https://www.meetup.com/pl-PL/wrocnet/events/268145665/) | 19.05 18:30-20:30 | .NET | Polish | Free | 
 
 
