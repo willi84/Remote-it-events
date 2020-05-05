@@ -63,6 +63,7 @@
 | DrupalCon	| [Link](https://events.drupal.org/minneapolis2020)	| 18-22.05 | Drupal	| English ||
 | Microsoft Build |	[Link](https://www.microsoft.com/en-us/build) | 19-21.05 | Microsoft products | English ||	
 | 4Developers Online | [Link](https://4developers.org.pl/online-2020/) | 20.05 | .Net, Architecture | Polish | Paid | 
+| ngVikings | [Link](https://ngvikings.org/) | 25.-26.05 | Angular | English | Free | 
 | Cloud Developerdays | [Link](https://cloud.developerdays.pl/)	| 26-27.05 | Cloud	| English | Free |
 | JandBeyound - online edition | [Link](https://jandbeyond.org/) | 29-31.05 | Joomla | English | Free | 
 
